@@ -8,6 +8,8 @@
 
 //STEP 2
 
+// let username = prompt("What is your name?");
+
 // let numericValue = prompt("Please enter a numeric value");
 
 // let index = parseInt(numericValue);
@@ -17,6 +19,8 @@
 // alert("The letter at your number " + index + " in your name is " + letter);
 
 //STEP 3
+
+// let username = prompt("What is your name?");
 
 // let username2 = prompt("What is your last name?");
 
@@ -36,11 +40,15 @@
 
 //STEP 5
 
+// let text = "The quick brown fox jumps over the lazy dog";
+
 // let lastIndex = text.lastIndexOf("fox");
 
 // alert("The last index of the word 'fox' is " + lastIndex);
 
 //STEP 6
+
+// let text = "The quick brown fox jumps over the lazy dog";
 
 // let fullname = prompt("What is your full name?");
 
@@ -49,6 +57,8 @@
 // alert("Text edited! Here's the result: " + replacementText);
 
 //STEP 7
+
+// let text = "The quick brown fox jumps over the lazy dog";
 
 // let randomWord = prompt("Please enter any word you would like, it is for a search.");
 
