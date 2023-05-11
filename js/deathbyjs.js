@@ -45,6 +45,59 @@
 
 //STEP 3
 
+// let initialString = "The quick brown fox jumps over the lazy dog";
+
+// function countVowel(str) {
+//     let vowels = "aeiouAEIOU";
+//     let count = 0;
+//     for (i = 0; i <str.length; i++) {
+//         if (vowels.indexOf(str[i]) !== -1) {
+//             count++;
+//         }
+//     }
+//     return count;
+// }
+
+// let newString = countVowel(initialString);
+
+// console.log("The number of vowels counted is " + newString);
+
+
+
 //STEP 4
 
+// function generateRandomId(length) {
+//     let characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890";
+//     let id = "";
+//     for (i = 0; i< length; i++) {
+//         let randomResult = Math.floor(Math.random() * characters.length);
+//         id += characters.charAt(randomResult);
+//     }
+//     return id;
+// }
+
+// let randomId = generateRandomId(8);
+
+// console.log(randomId);
+
+
+
 //STEP 5
+
+// let countries = ["United States", "United Kingdom", "United Arab Emirates", "The Netherlands", "Brazil", "Canada", "France", "India", "South Africa", "Tajikistan"];
+
+// function longCountryNameFind(countryNames) {
+//     let longestName = "";
+
+//     for (i = 0; i < countryNames.length; i++) {
+//         let currentName = countryNames[i];
+//         if (currentName.length > longestName.length) {
+//             longestName = currentName;
+//         }
+//     }
+//     return longestName;
+// }
+
+// let longestCountryName = longCountryNameFind(countries);
+
+// console.log(longestCountryName);
